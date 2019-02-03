@@ -1,5 +1,5 @@
 dependencies:
-  - python=2
+  - python=3
   - pip:
     - spacy
     - ipykernel
@@ -9,5 +9,3 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - xgboost
-    - gensim
