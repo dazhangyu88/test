@@ -1,5 +1,5 @@
 dependencies:
-  - python=3
+  - python
   - pip:
     - spacy
     - ipykernel
